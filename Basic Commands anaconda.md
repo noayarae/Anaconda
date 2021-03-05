@@ -5,7 +5,7 @@ conda activate env_name
 conda config --show channels
 #### Install library
 conda install lib_name
-#### Install library from another channel (channel conda-forge)
+#### Install library from another channel (channel conda-forge - https://conda-forge.org/)
 conda install --channel conda-forge lib_name
 conda install --c conda-forge lib_name
 
