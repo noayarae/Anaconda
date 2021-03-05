@@ -7,6 +7,7 @@ conda config --show channels
 conda install lib_name
 #### Install library from another channel (channel conda-forge - https://conda-forge.org/)
 conda install --channel conda-forge lib_name
+
 conda install --c conda-forge lib_name
 #### Add Channel 
 conda config --add channels channel_name
