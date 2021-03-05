@@ -10,5 +10,9 @@ conda install --channel conda-forge lib_name
 conda install --c conda-forge lib_name
 #### Add Channel 
 conda config --add channels channel_name
+#### List eniroments
+conda env list
+
+
 
 https://www.youtube.com/watch?v=aE7qxfgubS8
