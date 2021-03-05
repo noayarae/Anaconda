@@ -1,7 +1,7 @@
-## Basic Command for Anaconda Batch
-### Activate an environment
+### Basic Command for Anaconda Batch
+#### Activate an environment
 conda activate env_name
-### List channels
+#### List channels
 conda config --show channels
 #### Install library
 conda install lib_name
